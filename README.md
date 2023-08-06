@@ -60,3 +60,9 @@ Hi, I'm Ayush Agarwal. I am a Full Stack Web Developer 🚀 based in India, curr
 <code><img height="40" src="./Logo/docker.png"></code>
 <code><img height="40" src="./Logo/kubernetes.png"></code>
 <code><img height="40" src="./Logo/jenkins.png"></code>
+
+<a  href="https://github.com/amankumar11"> 
+  <img alt="Ayush's Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AyushAgarwal0109&theme=dark&show_icons=true&hide_border=false&count_private=true" href="https://github.com/AyushAgarwal0109" />
+  <img alt="Ayush's Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAgarwal0109&theme=dark&hide_border=false" href="https://github.com/AyushAgarwal0109" />
+  <img alt="Ayush's Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAgarwal0109&theme=dark&show_icons=true&hide_border=false&layout=compact" href="https://github.com/AyushAgarwal0109" />
+</a>
