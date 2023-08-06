@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 ### Hey 👋🏽, I'm Ayush Agarwal
 
 <a href="https://www.linkedin.com/in/ayush-ag01/">
-  <img color="#fff" align="left" alt="Ayush's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img color="white" align="left" alt="Ayush's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br />
 <br />
 
 Hi, I'm Ayush Agarwal. I am a Full Stack Web Developer 🚀 based in India, currently working in DevOps, Cloud and Generative AI. Former Advanced Application Analyst at [@Accenture](https://www.linkedin.com/company/accentureindia/) & Full Stack Engineer at [@UpcloudTechnology](https://www.linkedin.com/company/upcloud-technology/). Beside's programming, I enjoy playing as well as watching Football and FPS games. Here's to exploring and learning everyday!
@@ -37,16 +38,16 @@ Hi, I'm Ayush Agarwal. I am a Full Stack Web Developer 🚀 based in India, curr
 
 **Languages and Tools:**
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="./Logo/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="./Logo/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="./Logo/solidity.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="40" src="./Logo/figma2.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="./Logo/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="40" src="./Logo/nodejs.webp"></code>
@@ -54,5 +55,8 @@ Hi, I'm Ayush Agarwal. I am a Full Stack Web Developer 🚀 based in India, curr
 <code><img height="40" src="./Logo/mongo.png"></code>
 <code><img height="40" src="./Logo/MySQL.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="./Logo/heroku.png"></code>
-<code><img height="40" src="./Logo/figma2.png"></code>
+<code><img height="40" src="./Logo/Terraform.png"></code>
+<code><img height="40" src="./Logo/aws.png"></code>
+<code><img height="40" src="./Logo/docker.png"></code>
+<code><img height="40" src="./Logo/kubernetes.png"></code>
+<code><img height="40" src="./Logo/jenkins.png"></code>
