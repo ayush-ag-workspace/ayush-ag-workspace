@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey 👋🏽, I'm Ayush Agarwal
+### Hey 👋🏽, I'm Ayush Agarwal <a href="https://www.linkedin.com/in/ayush-ag01/">
 
-<a href="https://www.linkedin.com/in/ayush-ag01/">
   <img style="color:white; background-color:white" align="left" alt="Ayush's LinkedIn" width="32px" src="./Logo/linkedin.webp" />
 </a>
 <br />
