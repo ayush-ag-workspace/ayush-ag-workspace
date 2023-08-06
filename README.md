@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hey 👋🏽, I'm Ayush Agarwal
 
 <a href="https://www.linkedin.com/in/ayush-ag01/">
-  <img style="color:white; background-color:white" align="left" alt="Ayush's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img style="color:white; background-color:white" align="left" alt="Ayush's LinkedIn" width="22px" src="./Logo/linkedin.webp" />
 </a>
 <br />
 <br />
