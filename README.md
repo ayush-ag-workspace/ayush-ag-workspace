@@ -33,7 +33,7 @@ Hi, I'm Ayush Agarwal. I am a Full Stack Web Developer 🚀 based in India, curr
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun Fact: What would life be if we had no courage to attempt anything?
 - 📫 How to reach me: agarwal.ayush.0109@gmail.com;
-- 📝[Resume](https://docs.google.com/document/d/1rIxAw9vv1ABOefcBVsfyvpPd1DiwN6_xgyNYuBPexLI/edit?usp=sharing)
+- 📝 Find out more about me: [Resume](https://docs.google.com/document/d/1rIxAw9vv1ABOefcBVsfyvpPd1DiwN6_xgyNYuBPexLI/edit?usp=sharing)
 
 **Languages and Tools:**
 
