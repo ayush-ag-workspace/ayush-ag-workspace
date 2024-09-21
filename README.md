@@ -32,7 +32,7 @@ Hi, I'm Ayush Agarwal. I am a Full Stack Web Developer 🚀 based in India, curr
 - 👯 I’m looking to collaborate on Web Development projects 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun Fact: What would life be if we had no courage to attempt anything?
-- 📫 How to reach me: agarwal.ayush.0109@gmail.com;
+- 📫 How to reach me: ayush.ag.workspace@gmail.com;
 - 📝 Find out more about me: [Resume](https://docs.google.com/document/d/1rIxAw9vv1ABOefcBVsfyvpPd1DiwN6_xgyNYuBPexLI/edit?usp=sharing)
 
 **Languages and Tools:**
@@ -60,8 +60,8 @@ Hi, I'm Ayush Agarwal. I am a Full Stack Web Developer 🚀 based in India, curr
 <code><img height="40" src="./Logo/kubernetes.png"></code>
 <code><img height="40" src="./Logo/jenkins.png"></code>
 
-<a  href="https://github.com/AyushAgarwal0109"> 
-  <img alt="Ayush's Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=AyushAgarwal0109&theme=dark&show_icons=true&hide_border=false&count_private=true" href="https://github.com/AyushAgarwal0109" />
-  <img alt="Ayush's Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAgarwal0109&theme=dark&hide_border=false" href="https://github.com/AyushAgarwal0109" />
-  <img alt="Ayush's Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAgarwal0109&theme=dark&show_icons=true&hide_border=false&layout=compact" href="https://github.com/AyushAgarwal0109" />
+<a  href="https://github.com/ayush-ag-workspace"> 
+  <img alt="Ayush's Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ayush-ag-workspace&theme=dark&show_icons=true&hide_border=false&count_private=true" href="https://github.com/ayush-ag-workspace" />
+  <img alt="Ayush's Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-ag-workspace&theme=dark&hide_border=false" href="https://github.com/ayush-ag-workspace" />
+  <img alt="Ayush's Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-ag-workspace&theme=dark&show_icons=true&hide_border=false&layout=compact" href="https://github.com/ayush-ag-workspace" />
 </a>
