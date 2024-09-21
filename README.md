@@ -1,19 +1,3 @@
-<!--
-### Hi there 👋
-**specter25/specter25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hey 👋🏽, I'm Ayush Agarwal <a href="https://www.linkedin.com/in/ayush-ag01/">
 
   <img style="color:white; background-color:white" align="left" alt="Ayush's LinkedIn" width="32px" src="./Logo/linkedin.webp" />
@@ -21,7 +5,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Ayush Agarwal. I am a Full Stack Web Developer 🚀 based in India, currently working in DevOps, Cloud and Generative AI. Former Advanced Application Analyst at [@Accenture](https://www.linkedin.com/company/accentureindia/) & Full Stack Engineer at [@UpcloudTechnology](https://www.linkedin.com/company/upcloud-technology/). Beside's programming, I enjoy playing as well as watching Football and FPS games. Here's to exploring and learning everyday!
+I’m Ayush Agarwal, a **Software Developer** based in India, currently working as a **Full Stack Developer** at [@Tramés](https://www.linkedin.com/company/trames-pte-ltd/) (remotely). With a diverse background as a former **Advanced Application Analyst** at [@Accenture](https://www.linkedin.com/company/accentureindia/) and **Full Stack Engineer** at [@UpcloudTechnology](https://www.linkedin.com/company/upcloud-technology/), I bring in extensive experience in **Web & App development**, **DevOps** and **Cloud** technologies.
+
+### 📫 **Let's Connect**
+- [LinkedIn](https://www.linkedin.com/in/ayush-agarwal)
+- [GitHub](https://github.com/your-github-profile)
+
+Looking forward to collaborating and learning something new every day!
 
 <img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
   
@@ -29,7 +19,7 @@ Hi, I'm Ayush Agarwal. I am a Full Stack Web Developer 🚀 based in India, curr
 
 - 👨🏽‍💻 I’m currently working on Automation with DevOps and Cloud;
 - 🌱 I’m currently learning Generative AI;
-- 👯 I’m looking to collaborate on Web Development projects 🤝;
+- 👯 I’m looking to collaborate on Web and App Development projects 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun Fact: What would life be if we had no courage to attempt anything?
 - 📫 How to reach me: ayush.ag.workspace@gmail.com;
