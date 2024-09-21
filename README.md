@@ -1,15 +1,10 @@
 ### Hey 👋🏽, I'm Ayush Agarwal <a href="https://www.linkedin.com/in/ayush-ag01/">
 
-  <img style="color:white; background-color:white" align="left" alt="Ayush's LinkedIn" width="32px" src="./Logo/linkedin.webp" />
-</a>
-<br />
-<br />
-
 I’m Ayush Agarwal, a **Software Developer** based in India, currently working as a **Full Stack Developer** at [@Tramés](https://www.linkedin.com/company/trames-pte-ltd/) (remotely). With a diverse background as a former **Advanced Application Analyst** at [@Accenture](https://www.linkedin.com/company/accentureindia/) and **Full Stack Engineer** at [@UpcloudTechnology](https://www.linkedin.com/company/upcloud-technology/), I bring in extensive experience in **Web & App development**, **DevOps** and **Cloud** technologies.
 
 ### 📫 **Let's Connect**
-- [LinkedIn](https://www.linkedin.com/in/ayush-agarwal)
-- [GitHub](https://github.com/your-github-profile)
+- [LinkedIn](https://www.linkedin.com/in/ayush-ag01)
+- [GitHub](https://github.com/ayush-ag-workspace)
 
 Looking forward to collaborating and learning something new every day!
 
