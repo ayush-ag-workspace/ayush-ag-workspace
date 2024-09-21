@@ -2,10 +2,6 @@
 
 I’m Ayush Agarwal, a **Software Developer** based in India, currently working as a **Full Stack Developer** at [@Tramés](https://www.linkedin.com/company/trames-pte-ltd/) (remotely). With a diverse background as a former **Advanced Application Analyst** at [@Accenture](https://www.linkedin.com/company/accentureindia/) and **Full Stack Engineer** at [@UpcloudTechnology](https://www.linkedin.com/company/upcloud-technology/), I bring in extensive experience in **Web & App development**, **DevOps** and **Cloud** technologies.
 
-### 📫 **Let's Connect**
-- [LinkedIn](https://www.linkedin.com/in/ayush-ag01)
-- [GitHub](https://github.com/ayush-ag-workspace)
-
 Looking forward to collaborating and learning something new every day!
 
 <img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
@@ -44,6 +40,10 @@ Looking forward to collaborating and learning something new every day!
 <code><img height="40" src="./Logo/docker.png"></code>
 <code><img height="40" src="./Logo/kubernetes.png"></code>
 <code><img height="40" src="./Logo/jenkins.png"></code>
+
+### 📫 **Let's Connect**
+- [LinkedIn](https://www.linkedin.com/in/ayush-ag01)
+- [GitHub](https://github.com/ayush-ag-workspace)
 
 <a  href="https://github.com/ayush-ag-workspace"> 
   <img alt="Ayush's Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ayush-ag-workspace&theme=dark&show_icons=true&hide_border=false&count_private=true" href="https://github.com/ayush-ag-workspace" />
