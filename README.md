@@ -43,7 +43,6 @@ Looking forward to collaborating and learning something new every day!
 
 ### 📫 **Let's Connect**
 - [LinkedIn](https://www.linkedin.com/in/ayush-ag01)
-- [GitHub](https://github.com/ayush-ag-workspace)
 
 <a  href="https://github.com/ayush-ag-workspace"> 
   <img alt="Ayush's Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ayush-ag-workspace&theme=dark&show_icons=true&hide_border=false&count_private=true" href="https://github.com/ayush-ag-workspace" />
