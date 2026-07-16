@@ -1,16 +1,16 @@
 ### Hey 👋🏽, I'm Ayush Agarwal <a href="https://www.linkedin.com/in/ayush-ag01/"> 📫 [LinkedIn](https://www.linkedin.com/in/ayush-ag01)
 
-I’m Ayush Agarwal, a **Software Developer** based in India, currently working as a **Full Stack Developer** at [@Tramés](https://www.linkedin.com/company/trames-pte-ltd/) (remotely). With a diverse background as a former **Advanced Application Analyst** at [@Accenture](https://www.linkedin.com/company/accentureindia/) and **Full Stack Engineer** at [@UpcloudTechnology](https://www.linkedin.com/company/upcloud-technology/), I bring in extensive experience in **Web & App development**, **DevOps** and **Cloud** technologies.
+I’m Ayush Agarwal, a **Software Developer** based in India, currently working as a **Senior Full Stack Engineer** at [@Tramés](https://www.linkedin.com/company/trames-pte-ltd/) (remotely), where I build scalable, data-intensive systems for supply-chain visibility — spanning distributed data pipelines, high-performance APIs, and real-time, map-based user interfaces. With a diverse background as a former **Advanced Application Analyst** at [@Accenture](https://www.linkedin.com/company/accentureindia/) and **Full Stack Engineer** at [@UpcloudTechnology](https://www.linkedin.com/company/upcloud-technology/), I bring extensive experience across **Web & App development**, **DevOps**, and **Cloud** technologies.
 
-Looking forward to collaborating and learning something new every day!
+I like owning problems end-to-end — designing the architecture, shipping the code, and tuning it for scale and reliability. Looking forward to collaborating and learning something new every day!
 
 <img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Automation with DevOps and Cloud;
-- 🌱 I’m currently learning Generative AI;
-- 👯 I’m looking to collaborate on Web and App Development projects 🤝;
+- 👨🏽‍💻 I’m currently working on event-driven microservices, high-performance APIs, and real-time data visualization at scale;
+- 🌱 I’m currently learning Generative AI and applying LLMs to production data pipelines;
+- 👯 I’m looking to collaborate on Web & App Development, Distributed Systems, and Cloud projects 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun Fact: What would life be if we had no courage to attempt anything?
 - 📫 How to reach me: ayush.ag.workspace@gmail.com;
@@ -30,8 +30,10 @@ Looking forward to collaborating and learning something new every day!
 <code><img height="40" src="./Logo/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
 <code><img height="40" src="./Logo/nodejs.webp"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="./Logo/mongo.png"></code>
 <code><img height="40" src="./Logo/MySQL.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
